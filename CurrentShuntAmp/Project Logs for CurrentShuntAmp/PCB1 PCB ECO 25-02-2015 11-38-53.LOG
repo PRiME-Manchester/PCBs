@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VSENSE Pin=P1-3
+Added Component: Designator=R2(6-0805_N)
+Added Component: Designator=R3(6-0805_N)
+Added Pin To Net: NetName=VSENSE Pin=R2-1
+Added Pin To Net: NetName=NetP2_2 Pin=R3-1
+Change Net Name : Old Net Name=VSENSE New Net Name=NetP2_1
+Added Pin To Net: NetName=VSENSE Pin=P1-3
+Added Pin To Net: NetName=VSENSE Pin=R2-2
+Added Pin To Net: NetName=VSENSE Pin=R3-2
+Added Net: Name=VSENSE
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R3 Res1

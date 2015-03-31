@@ -1,0 +1,6 @@
+Added Component: Designator=C20(1608[0603])
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=NetC20_2 Pin=U1-17
+Added Net: Name=NetC20_2
+Added Member To Class: ClassName=Sheet1 Member=Component C20 Cap Semi

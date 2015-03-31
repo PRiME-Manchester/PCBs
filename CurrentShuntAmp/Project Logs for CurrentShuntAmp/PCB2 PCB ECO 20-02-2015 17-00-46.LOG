@@ -1,0 +1,52 @@
+Added Component: Designator=C1(C1206)
+Added Component: Designator=C1(C1206)
+Added Component: Designator=P1(HDR2X2)
+Added Component: Designator=P1(HDR2X2)
+Added Component: Designator=P2(HDR2X3)
+Added Component: Designator=P2(HDR2X3)
+Added Component: Designator=U1(21-0057F)
+Added Component: Designator=U1(21-0057F)
+Added Pin To Net: NetName=ADC Pin=P1-1
+Added Pin To Net: NetName=ADC Pin=P1-1
+Added Pin To Net: NetName=ADC Pin=U1-1
+Added Pin To Net: NetName=ADC Pin=U1-1
+Added Net: Name=ADC
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=P2-3
+Added Pin To Net: NetName=NetP2_1 Pin=P2-5
+Added Pin To Net: NetName=NetP2_1 Pin=U1-5
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetP2_2 Pin=P2-2
+Added Pin To Net: NetName=NetP2_2 Pin=P2-4
+Added Pin To Net: NetName=NetP2_2 Pin=P2-6
+Added Pin To Net: NetName=NetP2_2 Pin=U1-5
+Added Net: Name=NetP2_2
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=P1-4
+Added Pin To Net: NetName=VCC Pin=P1-4
+Added Pin To Net: NetName=VCC Pin=U1-3
+Added Pin To Net: NetName=VCC Pin=U1-3
+Added Net: Name=VCC
+Added Pin To Net: NetName=VSENSE Pin=P1-3
+Added Pin To Net: NetName=VSENSE Pin=P1-3
+Added Pin To Net: NetName=VSENSE Pin=P2-1
+Added Pin To Net: NetName=VSENSE Pin=P2-2
+Added Pin To Net: NetName=VSENSE Pin=P2-3
+Added Pin To Net: NetName=VSENSE Pin=P2-4
+Added Pin To Net: NetName=VSENSE Pin=P2-5
+Added Pin To Net: NetName=VSENSE Pin=P2-6
+Added Pin To Net: NetName=VSENSE Pin=U1-4
+Added Pin To Net: NetName=VSENSE Pin=U1-4
+Added Net: Name=VSENSE
+Added Class: Name=Sheet1
+Added Class: Name=Sheet2
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

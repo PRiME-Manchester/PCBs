@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VSENSE Pin=P1-3
+Added Pin To Net: NetName=NetP2_2 Pin=C1-2
+Added Pin To Net: NetName=NetP2_2 Pin=P1-1
+Added Pin To Net: NetName=NetP2_2 Pin=P1-3
+Added Pin To Net: NetName=NetP2_2 Pin=U1-1
+Added Pin To Net: NetName=NetP2_2 Pin=U1-2
+Change Net Name : Old Net Name=NetP2_2 New Net Name=VSENSE
+Change Net Name : Old Net Name=VSENSE New Net Name=NetP2_1

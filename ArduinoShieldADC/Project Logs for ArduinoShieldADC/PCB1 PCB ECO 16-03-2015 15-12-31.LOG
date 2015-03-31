@@ -1,0 +1,13 @@
+Added Component: Designator=U2(ARDUINO_MEGA-PRO-3.3V)
+Added Pin To Net: NetName=EOC Pin=U2-0
+Added Pin To Net: NetName=5V Pin=U2-5V@0
+Added Pin To Net: NetName=GND Pin=U2-GND@0
+Added Pin To Net: NetName=GND Pin=U2-GND@1
+Added Pin To Net: NetName=GND Pin=U2-GND@2
+Added Pin To Net: NetName=GND Pin=U2-GND@3
+Added Pin To Net: NetName=GND Pin=U2-GND@4
+Added Pin To Net: NetName=GND Pin=U2-GND@5
+Added Pin To Net: NetName=MISO Pin=U2-MISO
+Added Pin To Net: NetName=MOSI Pin=U2-MOSI
+Added Pin To Net: NetName=SCLK Pin=U2-SCLK
+Added Member To Class: ClassName=Sheet1 Member=Component U2 Arduino Mega board footprint

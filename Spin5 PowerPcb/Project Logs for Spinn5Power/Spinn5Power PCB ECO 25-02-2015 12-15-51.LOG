@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=J2-2
+Change Component DesignItemId : Designator=J2 Old DesignItemId=PWR2.5 New DesignItemId=Socket
+Change Component Footprint: Designator=J2 Old Footprint=KLD-0202 New Footprint=PIN1
+Change Component Comment : Designator=J2 Old Comment=PWR2.5 New Comment=Socket
+Added Component: Designator=J1(PIN1)
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Room: Name=Spinn5Power

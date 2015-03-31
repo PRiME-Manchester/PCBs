@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=R15 Old Footprint=6-0805_N New Footprint=1608[0603]
+Change Component Footprint: Designator=R16 Old Footprint=6-0805_N New Footprint=1608[0603]
+Change Component Footprint: Designator=R17 Old Footprint=6-0805_N New Footprint=1608[0603]
+Change Component Footprint: Designator=R18 Old Footprint=6-0805_N New Footprint=1608[0603]
+Added Member To Class: ClassName=Sheet1 Member=Component C18 Cap Semi
+Added Member To Class: ClassName=Sheet1 Member=Component C19 Cap Semi

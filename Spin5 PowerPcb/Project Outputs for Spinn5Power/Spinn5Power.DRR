@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Spinn5Power.PcbDoc   31/10/2014  16:49:27
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Spinn5Power.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        33mil (0.8382mm)         Round          6                1.08 Inch (27.43 mm)
+T2        35mil (0.889mm)          Round          9                1.04 Inch (26.29 mm)
+T3        39mil (0.9906mm)         Round          32               4.00 Inch (101.60 mm)
+T4        65mil (1.651mm)          Round          3                0.53 Inch (13.34 mm)
+---------------------------------------------------------------------------
+Totals                                            50               6.64 Inch (168.66 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

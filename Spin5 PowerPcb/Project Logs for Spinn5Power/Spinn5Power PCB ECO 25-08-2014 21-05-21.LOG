@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+12V Pin=J2-1A
+Removed Pin From Net: NetName=+12V Pin=J2-1B
+Removed Pin From Net: NetName=GND Pin=J2-2A
+Removed Pin From Net: NetName=GND Pin=J2-2B
+Change Component Footprint: Designator=J2 Old Footprint= New Footprint=KLD-0202
+Added Room: Name=Spinn5Power

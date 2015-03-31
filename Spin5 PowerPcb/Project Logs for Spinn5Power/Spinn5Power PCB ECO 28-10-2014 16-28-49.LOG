@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=P4-1
+Removed Pin From Net: NetName=+3V Pin=P4-3
+Removed Pin From Net: NetName=+3V Pin=R3-2
+Removed Pin From Net: NetName=+3V Pin=R4-2
+Removed Member From Class: ClassName=Spinn5Power Member=P4
+Removed Member From Class: ClassName=Spinn5Power Member=R3
+Removed Member From Class: ClassName=Spinn5Power Member=R4
+Added Member To Class: ClassName=Spinn5Power Member=Component P3 Header 3H

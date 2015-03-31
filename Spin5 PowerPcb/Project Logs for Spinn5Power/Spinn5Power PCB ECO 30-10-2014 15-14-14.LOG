@@ -1,0 +1,7 @@
+Added Component: Designator=R3(AXIAL-0.3)
+Added Pin To Net: NetName=+3V Pin=R3-2
+Added Pin To Net: NetName=SENSE3 Pin=J1-A3
+Added Pin To Net: NetName=SENSE3 Pin=P3-3
+Added Pin To Net: NetName=SENSE3 Pin=R3-1
+Added Net: Name=SENSE3
+Added Member To Class: ClassName=Spinn5Power Member=Component R3 Res1

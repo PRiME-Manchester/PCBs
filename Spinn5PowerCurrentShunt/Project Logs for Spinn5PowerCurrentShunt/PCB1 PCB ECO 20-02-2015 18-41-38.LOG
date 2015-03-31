@@ -1,0 +1,56 @@
+Added Component: Designator=C1(C1206)
+Added Component: Designator=P4(HDR1X2)
+Added Component: Designator=R4(AXIAL-0.3)
+Added Pin To Net: NetName=+3V Pin=C1-2
+Added Pin To Net: NetName=+3V Pin=J1-C1
+Added Pin To Net: NetName=+3V Pin=R1-2
+Added Pin To Net: NetName=+3V Pin=R2-2
+Added Pin To Net: NetName=+3V Pin=R3-2
+Added Net: Name=+3V
+Added Pin To Net: NetName=+12V Pin=J2-1
+Added Pin To Net: NetName=+12V Pin=P1-2
+Added Pin To Net: NetName=+12V Pin=P2-2
+Added Pin To Net: NetName=+12V Pin=P3-2
+Added Pin To Net: NetName=+12V Pin=R4-2
+Added Net: Name=+12V
+Added Pin To Net: NetName=12V_B Pin=J1-C9
+Added Pin To Net: NetName=12V_B Pin=J1-C10
+Added Pin To Net: NetName=12V_B Pin=J1-C11
+Added Pin To Net: NetName=12V_B Pin=J1-C12
+Added Pin To Net: NetName=12V_B Pin=J1-C13
+Added Pin To Net: NetName=12V_B Pin=J1-C14
+Added Pin To Net: NetName=12V_B Pin=J1-C15
+Added Pin To Net: NetName=12V_B Pin=J1-C16
+Added Pin To Net: NetName=12V_B Pin=P4-2
+Added Pin To Net: NetName=12V_B Pin=R4-1
+Added Net: Name=12V_B
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=J1-A9
+Added Pin To Net: NetName=GND Pin=J1-A10
+Added Pin To Net: NetName=GND Pin=J1-A11
+Added Pin To Net: NetName=GND Pin=J1-A12
+Added Pin To Net: NetName=GND Pin=J1-A13
+Added Pin To Net: NetName=GND Pin=J1-A14
+Added Pin To Net: NetName=GND Pin=J1-A15
+Added Pin To Net: NetName=GND Pin=J1-A16
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Net: Name=NetP4_1
+Added Pin To Net: NetName=SENSE1 Pin=J1-A2
+Added Pin To Net: NetName=SENSE1 Pin=P1-3
+Added Pin To Net: NetName=SENSE1 Pin=R1-1
+Added Net: Name=SENSE1
+Added Pin To Net: NetName=SENSE2 Pin=J1-C2
+Added Pin To Net: NetName=SENSE2 Pin=P2-3
+Added Pin To Net: NetName=SENSE2 Pin=R2-1
+Added Net: Name=SENSE2
+Added Pin To Net: NetName=SENSE3 Pin=J1-A3
+Added Pin To Net: NetName=SENSE3 Pin=P3-3
+Added Pin To Net: NetName=SENSE3 Pin=R3-1
+Added Net: Name=SENSE3
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

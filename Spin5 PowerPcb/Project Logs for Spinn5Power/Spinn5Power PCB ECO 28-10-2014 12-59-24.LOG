@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=P3 NewDesignator=P4
+Added Component: Designator=P3(HDR1X3H)
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=+12V Pin=P3-2
+Added Member To Class: ClassName=Spinn5Power Member=Component P4 Header 4H

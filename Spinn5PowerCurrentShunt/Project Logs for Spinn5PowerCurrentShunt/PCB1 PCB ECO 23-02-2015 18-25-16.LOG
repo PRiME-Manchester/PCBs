@@ -1,0 +1,7 @@
+Added Component: Designator=U1(21-0057F)
+Added Pin To Net: NetName=NetP4_1 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=+3V Pin=U1-3
+Added Pin To Net: NetName=12V_B Pin=U1-4
+Added Pin To Net: NetName=+12V Pin=U1-5
+Added Member To Class: ClassName=Sheet1 Member=Component U1 MAX4376FAUK+

@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Spinn5Power.PrjPcb]
+   Generated File[Spinn5Power.GTL]
+   Generated File[Spinn5Power.GBL]
+   Generated File[Spinn5Power.GTO]
+   Generated File[Spinn5Power.GTS]
+   Generated File[Spinn5Power.GBS]
+   Generated File[Spinn5Power.GBO]
+   Generated File[Spinn5Power.GKO]
+   Generated File[Spinn5Power.RUL]
+   Generated File[Spinn5Power.EXTREP]
+   Generated File[Spinn5Power.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 11:41:24 On 25/03/2015

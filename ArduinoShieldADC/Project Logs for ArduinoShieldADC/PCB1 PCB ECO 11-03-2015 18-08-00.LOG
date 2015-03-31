@@ -1,0 +1,11 @@
+Added Component: Designator=U4(RJ_5-M)
+Added Pin To Net: NetName=5V Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=5V Pin=U4-3
+Added Pin To Net: NetName=3V3 Pin=U4-5
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Res Semi
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Res Semi
+Added Member To Class: ClassName=Sheet1 Member=Component R3 Res Semi
+Added Member To Class: ClassName=Sheet1 Member=Component R4 Res Semi
+Added Member To Class: ClassName=Sheet1 Member=Component U4 ADP3309ARTZ-3.3-
+Added Room: Name=Sheet1

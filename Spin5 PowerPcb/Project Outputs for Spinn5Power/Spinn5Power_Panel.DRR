@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Spinn5Power_Panel.PcbDoc   31/10/2014  16:27:45
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Spinn5Power_Panel.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        33mil (0.8382mm)         Round          24               9.83 Inch (249.71 mm)
+T2        35mil (0.889mm)          Round          36               9.90 Inch (251.37 mm)
+T3        39mil (0.9906mm)         Round          128              19.41 Inch (492.90 mm)
+T4        65mil (1.651mm)          Round          12               5.49 Inch (139.52 mm)
+---------------------------------------------------------------------------
+Totals                                            200              44.63 Inch (1133.50 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

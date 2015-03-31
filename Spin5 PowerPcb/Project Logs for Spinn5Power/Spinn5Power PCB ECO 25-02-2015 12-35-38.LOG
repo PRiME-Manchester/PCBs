@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+12V Pin=J2-1
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Added Component: Designator=J3(PIN1)
+Added Pin To Net: NetName=+12V Pin=J3-1
+Added Member To Class: ClassName=Spinn5Power Member=Component J3 Socket
+Added Room: Name=Spinn5Power
