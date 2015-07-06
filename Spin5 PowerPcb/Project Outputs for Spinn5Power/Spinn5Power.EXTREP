@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Spinn5Power.GBR   25/03/2015  11:41:23
+Gerber File Extension Report For: Spinn5Power.GBR   06/07/2015  13:57:25
 ------------------------------------------------------------------------------------------
 
 
@@ -12,5 +12,6 @@ Layer Extension     Layer Description
 .GTS                Top Solder                              
 .GBS                Bottom Solder                           
 .GBO                Bottom Overlay                          
-.GKO                Keep-Out Layer                          
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
 ------------------------------------------------------------------------------------------
